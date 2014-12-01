@@ -6,12 +6,12 @@ Viterbi is an implementation of the viterbi path finding algorithm
 algorithm along with initial states and their associated initial
 probabilities.
 
-View the [docs](http://godoc.org/github.com/salientio/viterbi).
+View the [docs](http://godoc.org/github.com/nyxtom/viterbi).
 
 ## Installation
 
 ```
-$ go get github.com/salientio/viterbi
+$ go get github.com/nyxtom/viterbi
 ```
 
 # Licence
